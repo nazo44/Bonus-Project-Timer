@@ -18,6 +18,7 @@ def timer(hour, minute, second):
     print("Okay! ")
     exit()
 import time
+
 hour = int(input("Hour: "))
 minute = int(input("Minute: "))
 second = int(input("Second: "))
